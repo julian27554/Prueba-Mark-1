@@ -1,4 +1,6 @@
 
+# profe cuando hice este codigo solo goku y yo sabiamos como funcionaba, ahora solo él lo sabe, entonces favor no preguntarme a mi nada sobre su funcionamiento
+
 def operador_1(val):
 
     entero=int(val)
@@ -24,8 +26,5 @@ def operador_1(val):
     R1=Z-D1
     
     return R1
-    
-    
-
     
     
